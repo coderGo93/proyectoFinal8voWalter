@@ -16,6 +16,6 @@
 @property (strong, nonatomic) IBOutlet UILabel *lblAge;
 
 @property (strong, nonatomic) IBOutlet UIImageView *imgUser;
-
+@property (strong, nonatomic) IBOutlet UIImageView *imgUserOther;
 
 @end
